@@ -16,6 +16,10 @@ I was like << EHHHH, I want to expert with JIT on macOS ! >>
 And I managed to make a pretty dumb JIT that works !
 
 
+
+Note that this is a reupload of my project, with a few bug fixes ! :D
+
+
 Don't judge the poor quality of the code please !
 
 (I'm tired soooo, and it's a personal project)
