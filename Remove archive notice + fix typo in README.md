@@ -1,5 +1,3 @@
-Note : I'm archiving the repository, not deleting it, just in case.. I just don't have the energy nor the mood to do anything remotely useful/productive... maybe I'll come back one day.. maybe.. just maybe..
-
 This is the repository of BIRE_ADV(bad name I know...).
 
 
@@ -12,7 +10,7 @@ It's a Brainfuck VM, I originally intented to only
 
 support interpreted execution and then...
 
-I was like << EHHHH, I want to expert with JIT on macOS ! >>
+I was like << EHHHH, I want to experiment with JIT on macOS ! >>
 
 
 And I managed to make a pretty dumb JIT that works !
